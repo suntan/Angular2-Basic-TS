@@ -1,5 +1,5 @@
 {
-  "name": "專案名稱",
+  "name": "EmptyNodeAngular2",
   "version": "1.0.0",
   "scripts": {
     "start": "concurrently \"npm run tsc:w\" \"npm run lite\" ",    
