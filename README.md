@@ -4,17 +4,17 @@ Empty Anggular2 ( basic structure)
 此為　Anggular2　for TypeScript 的空白專案　，　請確認您已安裝　node & npm 以及全域按裝 npm tsd套件
 
 操作步驟:
-1. 下載 git clone https://github.com/suntan/EmptyNodeAngular2.git 
+1.下載 git clone https://github.com/suntan/EmptyNodeAngular2.git 
 
-2. 修改下載資料夾名稱 , 喜歡的名稱就OK　；　以下　MyProject　作為新資料夾名稱
+2.修改下載資料夾名稱 , 喜歡的名稱就OK　；　以下　MyProject　作為新資料夾名稱
 
 [root@/usr/src]# mv EmptyNodeAngular2 MyProject
 
-3. 
+3.切換目錄至 MyProject 之下
 
 [root@/usr/src]# cd MyProject
 
-4. 修改　package.json 中的檔案名稱為上述 [資料夾名稱(MyProject)]
+4.修改　package.json 中的檔案名稱為上述 [資料夾名稱(MyProject)]
 
 [root@/usr/src/MyProject]# vi package.json
 
@@ -129,6 +129,6 @@ Empty Anggular2 ( basic structure)
 }
 
 
-5. 下 npm install 指令進行 node_modules 安裝
+5.下 npm install 指令進行 node_modules 安裝
 
-6. 開始在 app 資料夾下的 Entry point main.ts & app.component.ts 加菜吧~~~
+6.開始在 app 資料夾下的 Entry point main.ts & app.component.ts 加菜吧~~~
