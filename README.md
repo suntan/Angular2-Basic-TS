@@ -1,4 +1,4 @@
-# EmptyNodeAngular2
+# EmptyAngular2
 Empty Anggular2 ( basic structure)
 
 此為　Anggular2　for TypeScript 的空白專案　，　請確認您已安裝　node & npm 以及全域按裝 npm tsd套件
@@ -21,7 +21,7 @@ Empty Anggular2 ( basic structure)
 
 {
 
-  "name": "EmptyNodeAngular2", <---- 專案名稱 , 修改為 [資料夾名稱(MyProject)]
+  "name": "EmptyAngular2", <---- 專案名稱 , 修改為 [資料夾名稱(MyProject)]
   
   "version": "1.0.0",
   
