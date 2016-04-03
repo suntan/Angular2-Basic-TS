@@ -4,6 +4,7 @@ Empty Anggular2 ( basic structure)
 此為　Anggular2　for TypeScript 的空白專案　，　請確認您已安裝　node & npm 以及全域按裝 npm tsd套件
 
 操作步驟:
+
 1.下載 git clone https://github.com/suntan/EmptyNodeAngular2.git 
 
 2.修改下載資料夾名稱 , 喜歡的名稱就OK　；　以下　MyProject　作為新資料夾名稱
