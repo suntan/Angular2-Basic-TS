@@ -133,3 +133,7 @@ Angular2-Basic ( basic structure)
 5.下 npm install 指令進行 node_modules 安裝
 
 6.開始在 app 資料夾下的 Entry point main.ts & app.component.ts 加菜吧~~~
+
+最近需要對內部的同仁做一些教育訓練；但Node相關的中文教學資源太少，照著AngularJS2官網的5分鐘學習一個開發的框架對資深的工程來說可能都習慣了，找對方法是這條路上必經之路. 希望多少能提供點幫助. . . 
+
+聯絡信箱 : suntan.huang@gmail.com  
