@@ -5,11 +5,11 @@ Angular2-Basic ( basic structure)
 
 操作步驟:
 
-1.下載 git clone https://github.com/suntan/Angular2-Basic.git 
+1.下載 git clone https://github.com/suntan/Angular2-Basic-TS.git 
 
 2.修改下載資料夾名稱 , 喜歡的名稱就OK　；　以下　MyProject　作為新資料夾名稱
 
-[root@/usr/src]# mv Angular2-Basic MyProject
+[root@/usr/src]# mv Angular2-Basic-TS MyProject
 
 3.切換目錄至 MyProject 之下
 
@@ -21,7 +21,7 @@ Angular2-Basic ( basic structure)
 
 {
 
-  "name": "Angular2-Basic", <---- 專案名稱 , 修改為 [資料夾名稱(MyProject)]
+  "name": "Angular2-Basic-TS", <---- 專案名稱 , 修改為 [資料夾名稱(MyProject)]
   
   "version": "1.0.0",
   
