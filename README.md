@@ -1,4 +1,4 @@
-# Angular2-Basic
+# Angular2-Basic (TypeScript)
 Angular2-Basic ( basic structure)
 
 此為　Anggular2　for TypeScript 的空白專案　，　請確認您已安裝　node & npm 以及全域按裝 npm tsd套件
